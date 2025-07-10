@@ -3,5 +3,7 @@ langchain
 langchain-google-genai
 google-generativeai
 faiss-cpu
-pypdf
+PyMuPDF
+requests
+beautifulsoup4
 python-dotenv
